@@ -4,7 +4,7 @@ st.image("logo.jpg")
 st.set_page_config(page_title="Công Cụ Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered")
 
 def calculate_interest():
-    st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm")
+    st.title("Nơi lưu trữ giá trị cuộc sống✅")
     st.markdown("Công cụ giúp bạn ước tính số tiền lãi nhận được theo lãi đơn hoặc lãi kép.")
 
     # Tạo form nhập liệu
