@@ -1,5 +1,4 @@
 import os
-st.image("logo.jpg")
 from datetime import date, datetime
 
 import pandas as pd
